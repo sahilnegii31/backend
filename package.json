@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sahilnegii31/backend#readme",
+  "bugs": {
+    "url": "https://github.com/sahilnegii31/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilnegii31/backend.git"
+  },
+  "license": "ISC",
+  "author": "sahil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
